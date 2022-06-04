@@ -1,0 +1,7 @@
+cls> clear
+git status> to see the status of workspace
+git commit -m "  some string " >  commit the file which is added
+git diff <file name>  >to see the difference in given file
+
+
+git push origin <<branch name>> 
