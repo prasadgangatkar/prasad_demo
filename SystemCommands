@@ -1,0 +1,21 @@
+
+cd => to go to files 
+ctrl + c ==> copy 
+cntrl + v ==> paste
+cls ==> clear
+
+
+cntrl + z => undu
+cntrl + shift + z => redo
+cntrl + s ==> save
+
+---------------------------------------------------------------------------------------------------------
+Windows               Linux                     Description
+---------------------------------------------------------------------------------------------------------
+dir                     ls                      To get the list of documents in that particular Folder
+mkdir <filename>       mkdir <file name>        To create new Folder.
+type <filename>        touch <file name>        To create a new file.
+------------------------------------------------------------------------------------------------------------
+
+
+
